@@ -6,7 +6,7 @@ took around 275 seconds to run while the home made took about 25 seconds to run.
 the innacuracy in it as the vegas integral calculates it to a much higher precision.  In order for the home made (monte carlo) integral to reach
 the same precision it would have to be running for about 100 times as long which is due to the convergance of the monte-carlo integral.
 
-![alt tag](http://github.com/jlichtman13/fin2/blob/master/finalplot.png)
+![alt tag](https://github.com/jlichtman13/fin2/blob/master/finalplot.png)
 
 
 #Note
